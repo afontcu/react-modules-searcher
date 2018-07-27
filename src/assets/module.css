@@ -1,0 +1,27 @@
+.Module {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 10px;
+}
+
+.Module:nth-child(2n + 1) {
+  background-color: #f6f6f6;
+}
+
+.Module__name {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.Module__attr {
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Module__attr--stars {
+  margin-right: 12px;
+  margin-left: auto;
+}
