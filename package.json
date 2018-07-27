@@ -1,7 +1,8 @@
 {
-  "name": "new",
+  "name": "react-modules-searcher",
   "version": "1.0.0",
-  "description": "",
+  "author": "Adrià Fontcuberta",
+  "private": true,
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
